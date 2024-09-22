@@ -1,0 +1,13 @@
++---------------------+
+|     Smartphone      |
++---------------------+
+| - brand: String     |
+| - model: String     |
+| - storage: int      |
+| - price: double     |
++---------------------+
+| + Smartphone()      |
+| + Smartphone(b: String, m: String, s: int, p: double) |
+| + displayInfo(): void |
+| + applyDiscount(percent: double): void |
++---------------------+
