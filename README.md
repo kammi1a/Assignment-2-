@@ -13,10 +13,6 @@ double price: Price in dollars.
 Default Constructor: Initializes attributes to default values.
 Parameterized Constructor: Allows setting specific values for the attributes.
 
-***Default Constructor:***
-Initializes attributes to default values.
-Parameterized Constructor: Allows setting specific values for the attributes.
-
 ***Methods***
 displayInfo(): Prints smartphone details.
 applyDiscount(double percent): Reduces the price based on the given percentage, validating the input.
